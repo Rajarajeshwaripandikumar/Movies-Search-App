@@ -30,7 +30,7 @@ A full-featured **React** application that integrates with the **OMDB API** to s
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Movies-Search-App.git
+git clone [https://github.com/Rajarajeshwaripandikumar/Movies-Search-App.git]
 npm install
 
 Configure OMDB API Key
